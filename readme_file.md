@@ -1,9 +1,5 @@
 # 🌟 Flask 簡易留言板
 
-一個使用 Flask 開發的簡單留言板網站，支援新增留言、檢視留言和清空留言功能。
-
-![留言板截圖](https://via.placeholder.com/800x400/667eea/ffffff?text=Flask+留言板)
-
 ## ✨ 功能特色
 
 - 📝 **新增留言**：用戶可以輸入姓名和留言內容
@@ -13,11 +9,7 @@
 - 📱 **響應式設計**：支援桌面和手機裝置
 - 🎨 **現代化UI**：漸層背景和動畫效果
 
-## 🚀 快速開始
-
-### 本地運行
-
-1. **克隆專案**
+1. *複製專案**
    ```bash
    git clone https://github.com/yourusername/flask-guestbook.git
    cd flask-guestbook
@@ -107,18 +99,7 @@ flask-guestbook/
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 開啟一個 Pull Request
 
-## 📝 授權條款
 
-這個專案使用 MIT 授權條款 - 查看 [LICENSE](LICENSE) 檔案了解詳情
-
-## 👨‍💻 作者
-
-- **你的名字** - [你的GitHub](https://github.com/yourusername)
-
-## 🙏 致謝
-
-- Flask 框架開發團隊
-- PythonAnywhere 提供的免費託管服務
 
 ## 📞 聯絡方式
 
